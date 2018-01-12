@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\UIN SGD\\Semester 7\\Mobile Programming\\android-fundamentals-master\\ScrollingText3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "E:\\UIN SGD\\Semester 7\\Mobile Programming\\android-fundamentals-master\\ScrollingText3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\UIN SGD\\Semester 7\\Mobile Programming\\android-fundamentals-master\\ScrollingText3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "E:\\UIN SGD\\Semester 7\\Mobile Programming\\android-fundamentals-master\\ScrollingText3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\UIN SGD\\Semester 7\\Mobile Programming\\android-fundamentals-master\\ScrollingText3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "E:\\UIN SGD\\Semester 7\\Mobile Programming\\android-fundamentals-master\\ScrollingText3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\UIN SGD\\Semester 7\\Mobile Programming\\android-fundamentals-master\\ScrollingText3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "E:\\UIN SGD\\Semester 7\\Mobile Programming\\android-fundamentals-master\\ScrollingText3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]
